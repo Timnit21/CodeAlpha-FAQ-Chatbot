@@ -1,0 +1,78 @@
+[
+  {
+    "question": "Hello Hi Hey Greetings",
+    "answer": "Hello! I'm your CodeAlpha assistant. I'm here to help you with information about our internships, AI, and software development. How can I assist you today?"
+  },
+  {
+    "question": "Good morning Good afternoon Good evening",
+    "answer": "Good day! I'm ready to help you with any questions about CodeAlpha or our technology tracks. What's on your mind?"
+  },
+  {
+    "question": "Thanks Thank you",
+    "answer": "You're very welcome! I'm happy to help. Let me know if there's anything else you need."
+  },
+  {
+    "question": "Bye Goodbye",
+    "answer": "Goodbye! It was a pleasure assisting you. Feel free to reach out again if you have more questions. Good luck with your coding!"
+  },
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a technology company specializing in Artificial Intelligence, Machine Learning, and software development, dedicated to fostering skill growth for aspiring developers."
+  },
+  {
+    "question": "What does CodeAlpha do?",
+    "answer": "CodeAlpha provides technical internships, hands-on project opportunities, and mentorship to help students build professional portfolios and master real-world coding skills."
+  },
+  {
+    "question": "How can I join the CodeAlpha internship program?",
+    "answer": "You can apply through our official career portal or by following our application guidelines on our LinkedIn page and website."
+  },
+  {
+    "question": "What are the core technologies CodeAlpha focuses on?",
+    "answer": "CodeAlpha focuses on AI, Machine Learning, Web Development, and various software engineering paradigms to prepare interns for the modern tech industry."
+  },
+  {
+    "question": "Is CodeAlpha a remote internship provider?",
+    "answer": "Yes, CodeAlpha offers remote internship opportunities, allowing students to learn and contribute to projects from anywhere in the world."
+  },
+  {
+    "question": "Artificial Intelligence",
+    "answer": "Artificial Intelligence is the simulation of human intelligence processes by computer systems, including learning, reasoning, and self-correction."
+  },
+  {
+    "question": "Machine Learning vs AI",
+    "answer": "AI is the broad concept of machines acting smartly, while Machine Learning is a subset of AI where systems learn patterns from data without being explicitly programmed."
+  },
+  {
+    "question": "Programming languages for AI",
+    "answer": "Common languages for AI development include Python, Java, and C++, with Python being the most popular due to its extensive library support."
+  },
+  {
+    "question": "How do you handle debugging?",
+    "answer": "I approach debugging by isolating the problem, reviewing documentation, checking logs, and if necessary, refactoring the code to find a more efficient solution."
+  },
+  {
+    "question": "Importance of APIs",
+    "answer": "APIs allow different software applications to communicate with each other, enabling developers to integrate external services and functionalities easily."
+  },
+  {
+    "question": "What are your career goals?",
+    "answer": "My goal is to develop deep technical expertise in AI and software development, contributing to impactful projects while growing into a professional engineering role."
+  },
+  {
+    "question": "What is technical debt?",
+    "answer": "Technical debt refers to the extra development work that arises when short-term, quick-fix coding solutions are chosen over better, more sustainable approaches."
+  },
+  {
+    "question": "How do you prioritize tasks?",
+    "answer": "I prioritize by breaking down projects into smaller tasks, assessing their urgency and impact, and managing dependencies to ensure deadlines are met."
+  },
+  {
+    "question": "Future of AI",
+    "answer": "The future of AI involves more sophisticated systems capable of complex decision-making, better integration into daily human tasks, and ongoing advancements in generative capabilities."
+  },
+  {
+    "question": "How can I grow my tech career?",
+    "answer": "You can further your career by seeking internships, building practical projects to showcase your skills, staying updated with new technologies, and actively seeking mentorship."
+  }
+]
