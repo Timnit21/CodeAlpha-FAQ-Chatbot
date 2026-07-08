@@ -21,5 +21,5 @@ The CodeAlpha Pro Assistant is a robust AI-driven tool designed to bridge the ga
 
 1. **Clone the repository:**
    ```bash
-   git clone [Your-Repo-Link]
+   git clone [https://github.com/Timnit21/CodeAlpha-FAQ-Chatbot.git](https://github.com/Timnit21/CodeAlpha-FAQ-Chatbot.git)
    cd CodeAlpha_FAQChatbot
